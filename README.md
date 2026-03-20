@@ -1,2 +1,2 @@
 # todo-list
-A simple todo list.
+A simple CLI based todo list. :)
