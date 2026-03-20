@@ -1,7 +1,7 @@
 import os
 from time import sleep
-from Classes.TodoList import TodoList
-from Classes.Task import Task
+from classes.todo_list import TodoList
+from classes.task import Task
 
 
 def clear_screen():

@@ -1,4 +1,4 @@
-from Classes.Task import Task
+from classes.task import Task
 import json
 from datetime import datetime
 
