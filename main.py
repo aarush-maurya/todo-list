@@ -1,3 +1,4 @@
+#to run the todo list app, move into todo-list folder after cloning it and then type : py -m main
 import os
 from time import sleep
 from classes.todo_list import TodoList
